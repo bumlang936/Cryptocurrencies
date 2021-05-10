@@ -22,6 +22,7 @@ Since the data that's provided on the cryptocurrencies is not ideal, and has no 
 - A 3D scatter plot can be created by using Plotly Express scatter_3d() function to plot the 3 clusters from the Clustered DataFrame. The image below illustrates this 3D scatter plot.
 
 - 3D Plot:
+
 ![3D_plot](https://user-images.githubusercontent.com/75760493/117601925-0fa78b00-b115-11eb-9753-c9fdfcd6df91.png)
 
 - Finally, a final table was created for all the tradable cryptocurriencies by using the hvplot.table() function.
